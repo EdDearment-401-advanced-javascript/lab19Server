@@ -35,7 +35,7 @@ Usage Notes or examples
 *You will also need the other three repos
 [API](https://github.com/EdDearment-401-advanced-javascript/lab19API)
 [Logger](https://github.com/EdDearment-401-advanced-javascript/lab19Logger)
-[File handler](https://github.com/EdDearment-401-advanced-javascript/lab19fileHandler)
+[File handler](https://github.com/EdDearment-401-advanced-javascript/lab19file)
 * Endpoint: `/foo/bar/`
   * Returns a JSON object with abc in it.
 * Endpoint: `/bing/zing/`
